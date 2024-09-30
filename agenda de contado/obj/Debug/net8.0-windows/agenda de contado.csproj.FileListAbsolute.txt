@@ -1,0 +1,16 @@
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\bin\Debug\net8.0-windows\agenda de contado.exe
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\bin\Debug\net8.0-windows\agenda de contado.deps.json
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\bin\Debug\net8.0-windows\agenda de contado.runtimeconfig.json
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\bin\Debug\net8.0-windows\agenda de contado.dll
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\bin\Debug\net8.0-windows\agenda de contado.pdb
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\agenda_de_contado.Form1.resources
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\agenda de contado.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\agenda de contado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\agenda de contado.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\agenda de contado.AssemblyInfo.cs
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\agenda de contado.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\agenda de contado.dll
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\refint\agenda de contado.dll
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\agenda de contado.pdb
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\agenda de contado.genruntimeconfig.cache
+C:\Users\bruno\source\repos\agenda de contado\agenda de contado\obj\Debug\net8.0-windows\ref\agenda de contado.dll
